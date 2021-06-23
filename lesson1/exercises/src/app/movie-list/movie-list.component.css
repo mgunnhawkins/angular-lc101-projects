@@ -1,8 +1,13 @@
 h3 {
  text-align: center;
+ text-decoration: underline;
 }
 .movies {
   color: purple;
   font-size: x-large;
+  text-align: center;
+  width: 250px;
+  padding: 10px;
+  margin: 10px;
 }
 
