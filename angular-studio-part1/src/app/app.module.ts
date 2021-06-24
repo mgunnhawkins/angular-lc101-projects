@@ -6,6 +6,7 @@ import { HeaderComponent } from './header/header.component';
 import { CrewComponent } from './crew/crew.component';
 import { EquipmentComponent } from './equipment/equipment.component';
 import { ExperimentsComponent } from './experiments/experiments.component';
+import { BackgroundComponent } from './background/background.component';
 
 @NgModule({
   declarations: [
@@ -13,7 +14,8 @@ import { ExperimentsComponent } from './experiments/experiments.component';
     HeaderComponent,
     CrewComponent,
     EquipmentComponent,
-    ExperimentsComponent
+    ExperimentsComponent,
+    BackgroundComponent
   ],
   imports: [
     BrowserModule
